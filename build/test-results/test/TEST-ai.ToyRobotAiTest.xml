@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ai.ToyRobotAiTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-11T11:41:02" hostname="AMIR-SURFACELAP" time="0.086">
+  <properties/>
+  <testcase name="testToyRobotAi()" classname="ai.ToyRobotAiTest" time="0.086"/>
+  <system-out><![CDATA[If I move then I'll fall.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
