@@ -1,8 +1,8 @@
-#Toy Robot Simulator
+# Toy Robot Simulator
 
 This is a console based simulation of a toy robot who can move on a 2D surface while avoiding any move that can make the toy robot to fall off the surface.
 
-##Implementation
+## Implementation
 
 This is gradle based project written using the following:
 
@@ -10,11 +10,11 @@ This is gradle based project written using the following:
 - Junit5.7.0
 
 
-##Run Program
+## Run Program
 
 Run `java -jar build/libs/toyrobotsimulation-1.0-SNAPSHOT.jar` from the application folder root or copy the jar to your preferred location to run it.
 
-##Usage
+## Usage
 
 1. Once the program starts, you can only use `PLACE` or `EXIT` commands. The commands can be given in either upper or lower case.
 
@@ -51,7 +51,7 @@ REPORT
 EXIT
 ```
 
-##Technical Notes
+## Technical Notes
 
 The two main entities are:
 
