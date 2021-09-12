@@ -1,6 +1,6 @@
-entity/SurfaceTest.java
- entity.SurfaceTest
-ai/ToyRobotAiTest.java
- ai.ToyRobotAiTest
-entity/ToyRobotTest.java
- entity.ToyRobotTest
+surface/SurfaceTest.java
+ surface.SurfaceTest
+toyrobot/ToyRobotTest.java
+ toyrobot.ToyRobotTest
+surface/SurfaceUtilTest.java
+ surface.SurfaceUtilTest
